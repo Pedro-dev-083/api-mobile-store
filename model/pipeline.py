@@ -1,0 +1,14 @@
+"""Módulo para carregar a pipeline"""
+import pickle
+
+# pylint: disable=R0903:too-few-public-methods
+class Pipeline:
+    """Classe para carregar a pipeline"""
+
+    def carrega_pipeline(self, path):
+        """Carregamos a pipeline construido durante a fase de treinamento
+        """
+
+        with open(path, 'rb') as file:
+            pipeline = pickle.load(file)
+        return pipeline

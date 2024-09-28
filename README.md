@@ -6,7 +6,8 @@ Esse projeto foi feito utilizando *Python*, com *Flask* sendo o *framework*, o b
 
 Esse é um projeto feito por **Pedro Souza de Azevedo** como *MVP* para a disciplina de **Engenharia de Sistemas de Software Inteligentes**, do curso de pós-graduação da ***PUC-Rio***.  
 
-O *Front-end* desse projeto está aqui: https://github.com/Pedro-dev-083/front-favorite-movies
+O *Front-end* desse projeto está aqui: https://github.com/Pedro-dev-083/front-mobile-store.git
+O *Notebook* desse projeto está aqui : https://github.com/Pedro-dev-083/notebook-mobile-price.git
 
 ## Como configurar o projeto
 
@@ -14,7 +15,7 @@ O *Front-end* desse projeto está aqui: https://github.com/Pedro-dev-083/front-f
 
 Para clonar o projeto em sua máquina, é necessário ter o Git instalado, e então, você pode usar o seguinte comando:
 
-	git clone https://github.com/Pedro-dev-083/api-favorite-movies.git
+	git clone https://github.com/Pedro-dev-083/api-mobile-store.git
 
 Logo após ao clonar, você pode abrir a pasta, e acessar o terminal dentro dela para seguir os próximos passos.
 
